@@ -3,7 +3,7 @@
 Application to demonstrate some bascic functionalities of smarkets.com's API.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-## Applicatin Interface Walkthrough
+## Application Interface Walkthrough
 1. List of events: The first interface is a list of current popular events returned from smarkets' API.
 2. Detailed View: On clikcing any event, this view will show relevant details for the event.
 See Screenshots to get a better understanding.
@@ -20,8 +20,11 @@ https://fe-api.smarkets.com/v0/events/id/<event_id>
 ```
 ### Technology
 React
+
 Bootstrap
+
 Enzyme
+
 Cross-Origin-Resource-Sharing extension for Chrome.
 
 ## Folder Structure
