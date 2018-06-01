@@ -1,0 +1,87 @@
+/*
+    Main css file for the application
+*/
+
+html{
+    overflow-x: hidden;
+}
+
+.event{
+    font-size: 17px;
+    padding:20px ;
+}
+.event:hover,focus,after{
+    color: white;
+}
+
+.event-link{
+    text-decoration: none;
+    color: black;
+}
+.event-link:hover,focus,after{
+    text-decoration: none;
+    color: mediumseagreen;
+
+}
+
+.details{
+    margin-top: 10%;
+}
+.details-name{
+    color: darkgray;
+    font-weight: bold;
+    font-size: 34px;
+    margin-top: 70px;
+
+}
+
+.details-header{
+    color: deeppink;
+    font-size: 20px;
+
+}
+.details-content{
+    font-size: 23px;
+    color: darkslategray;
+    font-weight: bold;
+}
+
+.green-padding{
+    position:fixed;
+    background-color: #008d5c;
+    height: 100%;
+    width: 480px;
+    margin-top: -400px;
+
+}
+
+.space-top{
+    margin-top: 60px;
+}
+.space-bottom{
+    margin-bottom:50px;
+}
+
+.popular-events{
+    margin-left: 20px;
+    margin-top: 20px;
+    position: fixed;
+    font-size: 35px;
+    font-family: "Arial Black";
+}
+
+.popular{
+    font-size: 85px;
+    font-weight: bold;
+    color: #008D5C;
+}
+
+.details-box{
+    border-left: 3px solid black;
+    height: 300px;
+    margin-top: -200px;
+    margin-left: 16.5%;
+}
+.description{
+    color: darkslategray;
+}
