@@ -1,6 +1,6 @@
 # smarkets-app
 ## About
-Application to demonstrate some bascic functionalities of smarkets.com's API.
+Application to demonstrate some basic functionalities of smarkets.com's API.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Application Interface Walkthrough
